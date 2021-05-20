@@ -14,7 +14,7 @@ class App extends Component {
 
     onClick = button => {
 
-        if(button === "="){
+        if(button === "=") {
             this.calculate()
         }
 
